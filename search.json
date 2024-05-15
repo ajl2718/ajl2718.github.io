@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "I studied maths and physics, completing my PhD in mathematics in 2015. Since then I have been working in various data science and science roles. I have led over 15 data science projects in business, government and academia, with a recent focus on clinical data science.\nMy current projects involve application of machine learning and statistical tools to linked primary care data for cancer research. This is a complex area in terms of the data and domain knowledge required, and also involves a fair amount of bureaucratic wrangling (definitely the less fun part of the job).\nMy technical expertise ranges from data cleaning and wrangling (Pandas, Polars, DuckDB, Arrow), to machine learning model development (Pytorch, Keras), data visualisation (seaborn, ggplot), deployment (Azure) and, recently, fine-tuning LLMs for faciliating data science workflows.\nA large part my current role and previous role involves communicating and translating between domains, for example working with clinicians to refine ideas so that they can be translated into data science problems. This is challenging but also rewarding and a good source of ideas for data science applications."
+  },
+  {
+    "objectID": "cv.html#my-background",
+    "href": "cv.html#my-background",
+    "title": "CV",
+    "section": "",
+    "text": "I studied maths and physics, completing my PhD in mathematics in 2015. Since then I have been working in various data science and science roles. I have led over 15 data science projects in business, government and academia, with a recent focus on clinical data science.\nMy current projects involve application of machine learning and statistical tools to linked primary care data for cancer research. This is a complex area in terms of the data and domain knowledge required, and also involves a fair amount of bureaucratic wrangling (definitely the less fun part of the job).\nMy technical expertise ranges from data cleaning and wrangling (Pandas, Polars, DuckDB, Arrow), to machine learning model development (Pytorch, Keras), data visualisation (seaborn, ggplot), deployment (Azure) and, recently, fine-tuning LLMs for faciliating data science workflows.\nA large part my current role and previous role involves communicating and translating between domains, for example working with clinicians to refine ideas so that they can be translated into data science problems. This is challenging but also rewarding and a good source of ideas for data science applications."
+  },
+  {
+    "objectID": "cv.html#work-history",
+    "href": "cv.html#work-history",
+    "title": "CV",
+    "section": "Work history",
+    "text": "Work history\n\n2021 - Present: Data Scientist and Researcher, Victorian Comprehensive Cancer Centre Data Connect\n2018 - 2021: Data Scientist, Victorian Centre for Data Insights\n2016 - 2018: Data Analyst and Programmer, GapMaps\n2016 - 2018: Signal Processing and Machine Learning Scientist, DST Group"
+  },
+  {
+    "objectID": "cv.html#skillset",
+    "href": "cv.html#skillset",
+    "title": "CV",
+    "section": "Skillset",
+    "text": "Skillset\nData science:\n\nPython: Pandas, Polars, Numpy, Sklearn, Keras, Pytorch, spaCy, Requests, Jupyter Notebook\nR: Arrow, Tidyverse\nSQL: PostgreSQL, DuckDB\nAlgorithms: Clustering (K-means, Spectral Clustering), Random Forests, LDA, Word Embeddings, Linear and Logistic Regression, Neural Networks, Record Linkage\nVisualisation:\n\nPython: Seaborn, Matplotlib, Plotly Express\nTableau\nR: ggplot\n\n\nData engineering:\n\nDatabtricks: extracting and storing data, data transformations\nAzure: deployment of trained models as API endpoints\n\nSoftware development:\n\nDevelopment of whereabouts package for scalable geocoding and record linkage in Python, presented at PyCon 2023 in Adelaide.\nGithub / Gitlab"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\n\nPhD, Mathematics, University of Melbourne\nBachelor of Science (First Class Honours), Major in Mathematics"
+  },
+  {
+    "objectID": "cv.html#recent-publications",
+    "href": "cv.html#recent-publications",
+    "title": "CV",
+    "section": "Recent publications",
+    "text": "Recent publications\n\n2024\n\nReplication of a diagnostic accuracy study for cancer risk in primary care patients with unintended weight loss, Lee A, et al., 2024, submitted\nDevelopment and validation of a phenotyping algorithm for primary care patients with unintended weight loss, Lee A, et al., submitted\nPatient Preferences for Investigation of Cancer Symptoms in Australian General Practice: A Discrete Choice Experiment, Brent Venning, Alison Pearce, Richard De Abreu Lourenco, Rebekah Hall, Rebecca Bergin, Alex Lee, Keith Donohoe, Jon Emery , British Journal of General Practice, Feb 2024\n\n\n\n2023\n\nData Resource Profile: Victorian Comprehensive Cancer Centre Data Connect, Lee A, McCarthy D, Bergin R, et al., International Journal of Epidemiology, Volume 52, Issue 6, December 2023, Pages e292–e300\nFactors affecting patient decisions to undergo testing for cancer symptoms: an exploratory qualitative study in Australian general practice, Brent Venning, Rebecca Bergin, Alison Pearce, Alex Lee, Jon D Emery, BJGP Open, Mar 2023."
+  },
+  {
+    "objectID": "cv.html#recent-presentations",
+    "href": "cv.html#recent-presentations",
+    "title": "CV",
+    "section": "Recent presentations",
+    "text": "Recent presentations\n\n2024: Cancer in Primary Care Network Conference, Melbourne, Australia\n2024: VCCC Data Connect Showcase, Melbourne Australia\n2023: PyCon AU, Adelaide, Australia\n2023: VCCC Data Connect launch, Melbourne Australia\n2022: Oxford seminar in primary care, Oxford University, United Kingdom"
+  },
+  {
+    "objectID": "cv.html#supervision",
+    "href": "cv.html#supervision",
+    "title": "CV",
+    "section": "Supervision",
+    "text": "Supervision\n\nCurrently co-supervising two PhD students and one masters student\nMentored a PhD student in developing data science skills."
+  },
+  {
+    "objectID": "cv.html#open-source-projects",
+    "href": "cv.html#open-source-projects",
+    "title": "CV",
+    "section": "Open source projects",
+    "text": "Open source projects\nwhereabouts is an open-source Python package for geocoding at scale (1000s of addresses per second). The geocoding algorithm (based on this paper) is implemented in SQL using DuckDB. This means you no need to setup a database server and you can install everything using pip."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Alex Lee",
+    "section": "",
+    "text": "I am a data scientist and researcher with a PhD in mathematics. The current focus of my work is the application of statistical and machine learning methods, primarily natural language processing, to cancer research.\nI have been working in data science and science roles for the past 8 years, working with time-series data, geospatial data, images, electronic health records and text.\nMy overall philosophy for problem solving is to opt for simple techniques first and understand them well, only drawing on sophisticated tools and algorithms when needed (and sometimes out of curiosity)."
+  },
+  {
+    "objectID": "datanotes.html",
+    "href": "datanotes.html",
+    "title": "Data notes",
+    "section": "",
+    "text": "Some notes written up in the form of Jupyter notebooks.\n\nData tools\n\nDuckDB experiments (i.e., DuckDB is really fast)\nComparison of Polars vs Pandas\nHow datetime values work in Pandas\n\n\n\nGeospatial\n\nCreating hexgrids for geospatial data\nCreating shapefiles for uniform geometries (e.g., regular hexgrids, square grids)\nConverting population data between geometries\n\n\n\nMachine Learning\n\nActive inference in machine learning\nFine-tuning transformer embeddings for entity resolution of clinical data\n\n\n\nStatistics\n\nStatistical performance measures (e.g., PPV, Sensitivity, Specificity, Positive and Negative Likelihood Ratios)\n\n\n\nWebscraping\n\nIntro to webscraping"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "I enjoy the breadth and challenges of data science problems. Here are some projects I have been working on recently.\n\n\nLarge Language Models (LLMs) offer the potential to streamline many data science tasks including data cleaning and data transformations, information extraction and analysis. However, clinical data is highly specialised, making off-the-shelf LLMs unsuitable. The sensitivity of the data also means that sending data to external LLM providers is prohibited. In this project I am fine-tuning open source LLMs using data that is specific to the primary care setting. These tools dramatically improve the efficiency of time-consuming tasks in clinical data science, while being run in a secure environment.\n\n\n\nMachine learning models are known to exhibit biases. This project involved developing tools for assessing and mitigating against bias in a disease surveillance platform that uses live data from hospital emergency departments.\n\n\n\nEarly detection of cancer is an important factor in reducing mortality, however many patients who are later diagnosed with cancer first present with so-called non-specific symptoms which are a challenge in clinical decision making. This project involved the development of machine learning models to identify non-specific symptoms in patients’ electronic health records, and implementing the resulting algorithms into a clinical decision support tool that is currently being trialled.\n\n\n\nPart of my work has involved helping to develop linked data infrastructure to support research into cancer services. This requires linkage between data from primary care, hospitals and cancer registries and is challenging as much for the technical as the bureaucratic components. Ultimately this allows for a more complete picture of patients’ interactions with the health system.\n\nData Resource Profile: Victorian Comprehensive Cancer Centre Data Connect, A Lee, D McCarthy, R Bergin, et al., International Journal of Epidemiology, 2023"
+  },
+  {
+    "objectID": "projects.html#current-projects",
+    "href": "projects.html#current-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "I enjoy the breadth and challenges of data science problems. Here are some projects I have been working on recently.\n\n\nLarge Language Models (LLMs) offer the potential to streamline many data science tasks including data cleaning and data transformations, information extraction and analysis. However, clinical data is highly specialised, making off-the-shelf LLMs unsuitable. The sensitivity of the data also means that sending data to external LLM providers is prohibited. In this project I am fine-tuning open source LLMs using data that is specific to the primary care setting. These tools dramatically improve the efficiency of time-consuming tasks in clinical data science, while being run in a secure environment.\n\n\n\nMachine learning models are known to exhibit biases. This project involved developing tools for assessing and mitigating against bias in a disease surveillance platform that uses live data from hospital emergency departments.\n\n\n\nEarly detection of cancer is an important factor in reducing mortality, however many patients who are later diagnosed with cancer first present with so-called non-specific symptoms which are a challenge in clinical decision making. This project involved the development of machine learning models to identify non-specific symptoms in patients’ electronic health records, and implementing the resulting algorithms into a clinical decision support tool that is currently being trialled.\n\n\n\nPart of my work has involved helping to develop linked data infrastructure to support research into cancer services. This requires linkage between data from primary care, hospitals and cancer registries and is challenging as much for the technical as the bureaucratic components. Ultimately this allows for a more complete picture of patients’ interactions with the health system.\n\nData Resource Profile: Victorian Comprehensive Cancer Centre Data Connect, A Lee, D McCarthy, R Bergin, et al., International Journal of Epidemiology, 2023"
+  },
+  {
+    "objectID": "projects.html#open-source-projects",
+    "href": "projects.html#open-source-projects",
+    "title": "Projects",
+    "section": "Open source projects",
+    "text": "Open source projects\nwhereabouts is an open-source Python package for geocoding at scale (1000s of addresses per second). The geocoding algorithm (based on this paper) is implemented in SQL using DuckDB. This means you no need to setup a database server and you can install everything using pip."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me",
+    "section": "",
+    "text": "I am a data scientist and researcher with a background in mathematics and physics. I have been working in data science and science roles for the past 8 years, working with time-series data, geospatial data, images, electronic health records and language (often from specialised domains such as medicine).\nRecently I’ve discovered DuckDB and Polars, and, like most people, have been experimenting with Large Language Models for automating some of the drugery in data science work.\nMy overall philosophy for problem solving is to opt for simple techniques first and understand them well, only drawing on sophisticated tools and algorithms when needed (and sometimes out of curiosity). I like to keep up-to-state with developments in the field. Outside of work I enjoy riding my bike, languages, cooking, music and reading."
+  }
+]
