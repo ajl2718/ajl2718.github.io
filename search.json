@@ -74,7 +74,7 @@
     "href": "datanotes.html",
     "title": "Data notes",
     "section": "",
-    "text": "Some notes written up in the form of Jupyter notebooks.\n\nData tools\n\nDuckDB experiments (i.e., DuckDB is really fast)\nComparison of Polars vs Pandas\nHow datetime values work in Pandas\n\n\n\nGeospatial\n\nCreating hexgrids for geospatial data\nCreating shapefiles for uniform geometries (e.g., regular hexgrids, square grids)\nConverting population data between geometries\n\n\n\nMachine Learning\n\nActive inference in machine learning\nFine-tuning transformer embeddings for entity resolution of clinical data\n\n\n\nStatistics\n\nStatistical performance measures (e.g., PPV, Sensitivity, Specificity, Positive and Negative Likelihood Ratios)\n\n\n\nWebscraping\n\nIntro to webscraping"
+    "text": "Some notes written up in the form of Jupyter notebooks. These are fairly rough, often written when I am trying to understand a new idea, or experimenting with a new package or technique, but may be of use to others too.\n\nData tools\n\nDuckDB experiments (i.e., DuckDB is really fast)\nComparison of Polars vs Pandas\nHow datetime values work in Pandas\n\n\n\nGeospatial\n\nCreating hexgrids for geospatial data\nCreating shapefiles for uniform geometries (e.g., regular hexgrids, square grids)\nConverting population data between geometries\n\n\n\nMachine Learning\n\nActive inference in machine learning\nFine-tuning transformer embeddings for entity resolution of clinical data\n\n\n\nStatistics\n\nStatistical performance measures (e.g., PPV, Sensitivity, Specificity, Positive and Negative Likelihood Ratios)\n\n\n\nWebscraping\n\nIntro to webscraping"
   },
   {
     "objectID": "projects.html",
