@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Alex Lee</title>
+<title>Alex Lee - About me</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -39,6 +39,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -136,7 +139,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Alex Lee</h1>
+<h1 class="title">About me</h1>
 </div>
 
 
@@ -155,9 +158,18 @@ ul.task-list li input[type="checkbox"] {
 
 <p>I am a data scientist and researcher with a PhD in mathematics. The current focus of my work is the application of statistical and machine learning methods, primarily natural language processing, to cancer research.</p>
 <p>I have been working in data science and science roles for the past 8 years, working with time-series data, geospatial data, images, electronic health records and text.</p>
-<p>My overall philosophy for problem solving is to opt for simple techniques first and understand them well, only drawing on sophisticated tools and algorithms when needed (and sometimes out of curiosity).</p>
+<p>Here you can find more details about my work background in my <a href="./cv.html">CV</a>; a few of the <a href="./projects.html">projects</a> I have been working on recently; <a href="./datanotes.html">some notes</a> I have developed for different data science topics; and my poorly maintained <a href="https://ajl2718.github.io/blog">blog</a>. Outside of work I also like cycling, cooking, music, books and meandering in mountains.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/chile_lago_grey.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" data-glightbox="description: .lightbox-desc-1" title="Somewhere in Patagonia…"><img src="images/chile_lago_grey.jpg" class="img-fluid figure-img" alt="Somewhere in Patagonia…"></a></p>
+<figcaption>Somewhere in Patagonia…</figcaption>
+</figure>
+</div>
 
 
+<div class="hidden" aria-hidden="true">
+<span class="glightbox-desc lightbox-desc-1">Somewhere in Patagonia…</span>
+</div>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -570,6 +582,31 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"loop":false,"descPosition":"bottom","closeEffect":"zoom","openEffect":"zoom","selector":".lightbox"});
+window.onload = () => {
+  lightboxQuarto.on('slide_before_load', (data) => {
+    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+    const href = trigger.getAttribute('href');
+    if (href !== null) {
+      const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+      if (imgEl !== null) {
+        const srcAttr = imgEl.getAttribute("src");
+        if (srcAttr && srcAttr.startsWith("data:")) {
+          slideConfig.href = srcAttr;
+        }
+      }
+    } 
+  });
+
+  lightboxQuarto.on('slide_after_load', (data) => {
+    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+    if (window.Quarto?.typesetMath) {
+      window.Quarto.typesetMath(slideNode);
+    }
+  });
+
+};
+          </script>
 
 
 
