@@ -95,7 +95,7 @@
     "href": "projects.html#open-source-projects",
     "title": "Projects",
     "section": "Open source projects",
-    "text": "Open source projects\nwhereabouts is an open-source Python package for geocoding at scale (1000s of addresses per second). The geocoding algorithm (based on this paper) is implemented in SQL using DuckDB. This means you no need to setup a database server and you can install everything using pip."
+    "text": "Open source projects\nwhereabouts is an open-source Python package for geocoding at scale (1000s of addresses per second). The geocoding algorithm (based on this paper) is implemented in SQL using DuckDB. This means you no need to setup a database server and you can install everything using pip.\n!(images/potts_to_loops.png)"
   },
   {
     "objectID": "about.html",
