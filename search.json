@@ -70,13 +70,6 @@
     "text": "Supervision\n\nCurrently co-supervising two PhD students and one Masters student\nMentored a PhD student and research assistant in clinical data science"
   },
   {
-    "objectID": "cv.html#open-source-projects",
-    "href": "cv.html#open-source-projects",
-    "title": "CV",
-    "section": "Open source projects",
-    "text": "Open source projects\nwhereabouts is an open-source Python package for geocoding. It allows organisations to geocode 1000s of addresses per second, within their own environments and without any cost, bypassing the need for commercial APIs. The geocoding algorithm (based on this paper) is implemented in SQL using DuckDB. This means you no need to setup a database server and you can install everything using pip."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Alex Lee",
