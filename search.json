@@ -4,14 +4,14 @@
     "href": "cv.html",
     "title": "CV",
     "section": "",
-    "text": "I studied maths and physics, completing my PhD in mathematics in 2015. Since then I have been solving a range of data science problems in business, government and academia, with a recent focus on clinical data science.\nMy current projects involve application of machine learning and statistical techniques to linked primary care data for cancer research. This is a complex area in terms of the data and domain knowledge required, and also often involves working with many different stakeholders.\nMy technical expertise ranges from data cleaning and analysis (Pandas, Polars, DuckDB, Arrow), to machine learning model development (Pytorch, Keras), data visualisation (seaborn, ggplot), deployment (Azure) and, recently, fine-tuning LLMs for faciliating data science workflows.\nA large part of my current role and previous role involves communicating and translating between domains, for example working with clinicians to refine ideas so that they can be translated into data science problems. This is challenging but also rewarding and a good source of ideas for data science applications."
+    "text": "I studied maths and physics, completing my PhD in mathematics in 2015. Since then I have been solving a range of data science problems in business, government and academia, with a recent focus on clinical data science.\nMy current projects involve application of machine learning and statistical techniques to linked primary care data for cancer research. This is a complex area in terms of the data and domain knowledge required, and also often involves working with many different stakeholders.\nMy technical skill set ranges from data cleaning and analysis (Pandas, Polars, DuckDB, Arrow), to machine learning model development (Pytorch, Keras), data visualisation (Seaborn, ggplot), deployment (Azure) and, recently, fine-tuning LLMs for facilitating data science workflows.\nA large part of my current role and previous role involves communicating and translating between domains, for example working with clinicians to refine ideas so that they can be translated into data science problems. This is challenging but also rewarding and a good source of ideas for data science applications."
   },
   {
     "objectID": "cv.html#my-background",
     "href": "cv.html#my-background",
     "title": "CV",
     "section": "",
-    "text": "I studied maths and physics, completing my PhD in mathematics in 2015. Since then I have been solving a range of data science problems in business, government and academia, with a recent focus on clinical data science.\nMy current projects involve application of machine learning and statistical techniques to linked primary care data for cancer research. This is a complex area in terms of the data and domain knowledge required, and also often involves working with many different stakeholders.\nMy technical expertise ranges from data cleaning and analysis (Pandas, Polars, DuckDB, Arrow), to machine learning model development (Pytorch, Keras), data visualisation (seaborn, ggplot), deployment (Azure) and, recently, fine-tuning LLMs for faciliating data science workflows.\nA large part of my current role and previous role involves communicating and translating between domains, for example working with clinicians to refine ideas so that they can be translated into data science problems. This is challenging but also rewarding and a good source of ideas for data science applications."
+    "text": "I studied maths and physics, completing my PhD in mathematics in 2015. Since then I have been solving a range of data science problems in business, government and academia, with a recent focus on clinical data science.\nMy current projects involve application of machine learning and statistical techniques to linked primary care data for cancer research. This is a complex area in terms of the data and domain knowledge required, and also often involves working with many different stakeholders.\nMy technical skill set ranges from data cleaning and analysis (Pandas, Polars, DuckDB, Arrow), to machine learning model development (Pytorch, Keras), data visualisation (Seaborn, ggplot), deployment (Azure) and, recently, fine-tuning LLMs for facilitating data science workflows.\nA large part of my current role and previous role involves communicating and translating between domains, for example working with clinicians to refine ideas so that they can be translated into data science problems. This is challenging but also rewarding and a good source of ideas for data science applications."
   },
   {
     "objectID": "cv.html#recent-achievements",
@@ -21,11 +21,11 @@
     "text": "Recent achievements\n\nDeveloped and implemented an algorithm for cancer risk prediction in primary care patients with non-specific symptoms, assisting clinicians to better identify high risk patients.\nHelped to develop the first Australian primary care data linkage platform, enabling research across the entire patient continuum of care.\nDelivered a consultancy project with the Victorian Department of Health to ensure that disease surveillance algorithms are rigorously analysed for bias and fairness, in order to mitigate potential harms against particular cohorts of patients.\nWorked with a broad range of stakeholders including clinicians, statisticians, and health professionals to develop data science capability."
   },
   {
-    "objectID": "cv.html#previous-achievements",
-    "href": "cv.html#previous-achievements",
+    "objectID": "cv.html#some-previous-achievements",
+    "href": "cv.html#some-previous-achievements",
     "title": "CV",
-    "section": "Previous achievements",
-    "text": "Previous achievements\n\nLed the development of a COVID-19 geolocation tool for identifying cases at high-risk locations, enabling research, reporting and analysis throughout the pandemic."
+    "section": "Some previous achievements",
+    "text": "Some previous achievements\n\nLed the development of a COVID-19 geolocation tool for identifying cases at high-risk locations, enabling research, reporting and analysis throughout the pandemic.\nDevelopment of an open-source Python package for scalable geocoding, allowing organisations to geocode 1000s of addresses per second, within their own environments and without any cost, bypassing the need for commercial APIs."
   },
   {
     "objectID": "cv.html#work-history",
@@ -35,8 +35,8 @@
     "text": "Work history\n\n2021 - Present: Data Scientist and Researcher, Victorian Comprehensive Cancer Centre Data Connect\n2018 - 2021: Data Scientist, Victorian Centre for Data Insights\n2016 - 2018: Signal Processing and Machine Learning Scientist, DST Group\n2016 - 2018: Data Analyst and Programmer, GapMaps"
   },
   {
-    "objectID": "cv.html#skill-set",
-    "href": "cv.html#skill-set",
+    "objectID": "cv.html#sec-skills",
+    "href": "cv.html#sec-skills",
     "title": "CV",
     "section": "Skill Set",
     "text": "Skill Set\nData science:\n\nPython: Pandas, Polars, Numpy, Sklearn, Keras, Pytorch, spaCy, Requests, Jupyter Notebook\nR: Arrow, Tidyverse\nSQL: PostgreSQL, DuckDB\nAlgorithms: Clustering (K-means, Spectral Clustering), Random Forests, LDA, Word Embeddings, Linear and Logistic Regression, Neural Networks, Record Linkage\nVisualisation:\n\nPython: Seaborn, Matplotlib, Plotly Express\nTableau\nR: ggplot\n\n\nData engineering:\n\nDatabtricks: extracting and storing data, data transformations\nAzure: deployment of trained models as API endpoints\n\nSoftware development:\n\nPackages, code and notebooks as part of data science projects\nDevelopment of whereabouts package for scalable geocoding and record linkage in Python, presented at PyConAU 2023 in Adelaide\nGithub / Gitlab"
