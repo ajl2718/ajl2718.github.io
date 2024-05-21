@@ -81,7 +81,7 @@
     "href": "index.html",
     "title": "Alex Lee",
     "section": "",
-    "text": "I am a data scientist and researcher with a PhD in mathematics. The current focus of my work is the application of statistical and machine learning methods, primarily natural language processing, to cancer research.\nI have been working in data science and science roles for the past 8 years, working with time-series data, geospatial data, images, electronic health records and text.\nHere you can find more details about my work background; a few of my recent projects; some notes on various data science topics; and my occassionally maintained blog.\nOutside of work I enjoy cycling, cooking, music, books and meandering in mountains.\n\n\n\nSomewhere in Patagonia…\n\n\n\n\n\nSomewhere in Patagonia…"
+    "text": "I am a data scientist with a PhD in mathematics. I have been working in data science roles for the past eight years using time-series data, geospatial data, imagery, electronic health records and text.\nHere you can find more details about my work background; a few of my recent projects; some notes on various data science topics; and my occassionally maintained blog.\nOutside of work I enjoy cycling, cooking, music, books and meandering in mountains.\n\n\n\nSomewhere in Patagonia…\n\n\n\n\n\nSomewhere in Patagonia…"
   },
   {
     "objectID": "datanotes.html",
@@ -123,6 +123,6 @@
     "href": "about.html",
     "title": "About me",
     "section": "",
-    "text": "I am a data scientist and researcher with a background in mathematics and physics. I have been working in data science and science roles for the past 8 years, working with time-series data, geospatial data, images, electronic health records and language (often from specialised domains such as medicine).\nRecently I’ve discovered DuckDB and Polars, and, like most people, have been experimenting with Large Language Models for automating some of the drugery in data science work.\nMy overall philosophy for problem solving is to opt for simple techniques first and understand them well, only drawing on sophisticated tools and algorithms when needed (and sometimes out of curiosity). I like to keep up-to-state with developments in the field. Outside of work I enjoy riding my bike, languages, cooking, music and reading."
+    "text": "I am a data scientist with a background in mathematics and physics. I have been working in data science for the past 8 years using time-series data, geospatial data, imagery, electronic health records and text.\nRecently I’ve discovered DuckDB and Polars, and, like most people, have been experimenting with Large Language Models for automating some of the drugery in data science work.\nMy overall philosophy for problem solving is to opt for simple techniques first and understand them well, only drawing on sophisticated tools and algorithms when needed (and sometimes out of curiosity). I like to keep up-to-state with developments in the field. Outside of work I enjoy riding my bike, languages, cooking, music and reading."
   }
 ]
