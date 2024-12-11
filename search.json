@@ -39,7 +39,7 @@
     "href": "cv.html#sec-skills",
     "title": "CV",
     "section": "Skill Set",
-    "text": "Skill Set\nData science:\n\nPython: Pandas, Polars, Numpy, Sklearn, Keras, Pytorch, spaCy, Requests, Jupyter Notebook\nR: Arrow, Tidyverse\nSQL: PostgreSQL, DuckDB\nAlgorithms: Clustering (K-means, Spectral Clustering), Random Forests, LDA, Word Embeddings, Linear and Logistic Regression, Neural Networks, Record Linkage\nVisualisation:\n\nPython: Seaborn, Matplotlib, Plotly Express\nTableau\nR: ggplot\n\n\nData engineering:\n\nDatabtricks: extracting and storing data, data transformations\nAzure: deployment of trained models as API endpoints\n\nSoftware development:\n\nPackages, code and notebooks as part of data science projects\nDevelopment of whereabouts package for scalable geocoding and record linkage in Python, presented at PyConAU 2023 in Adelaide\nGithub / Gitlab"
+    "text": "Skill Set\nData science:\n\nPython: Pandas, Polars, Numpy, Sklearn, Keras, Pytorch, spaCy, Requests, Jupyter Notebook\nR: Arrow, Tidyverse\nSQL: PostgreSQL, DuckDB\nAlgorithms: Clustering (K-means, Spectral Clustering), Random Forests, LDA, Word Embeddings, Linear and Logistic Regression, Neural Networks, Record Linkage\nVisualisation:\n\nPython: Seaborn, Matplotlib, Plotly Express\nTableau\nR: ggplot\n\n\nData engineering:\n\nDatabricks: extracting and storing data, data transformations\nAzure: deployment of trained models as API endpoints\n\nSoftware development:\n\nPackages, code and notebooks as part of data science projects\nDevelopment of whereabouts package for scalable geocoding and record linkage in Python, presented at PyConAU 2023 in Adelaide. Jointly awarded Venables Award for Open Source Software, 2024\nGithub / Gitlab"
   },
   {
     "objectID": "cv.html#education",
@@ -53,21 +53,21 @@
     "href": "cv.html#recent-publications",
     "title": "CV",
     "section": "Recent publications",
-    "text": "Recent publications\n\n2024\n\nReplication of a diagnostic accuracy study for cancer risk in primary care patients with unintended weight loss, Lee A, et al., 2024, submitted\nDevelopment and validation of a phenotyping algorithm for primary care patients with unintended weight loss, Lee A, et al., in preparation\nPatient Preferences for Investigation of Cancer Symptoms in Australian General Practice: A Discrete Choice Experiment, Brent Venning, Alison Pearce, Richard De Abreu Lourenco, Rebekah Hall, Rebecca Bergin, Alex Lee, Keith Donohoe, Jon Emery , British Journal of General Practice, Feb 2024\n\n\n\n2023\n\nData Resource Profile: Victorian Comprehensive Cancer Centre Data Connect, Lee A, McCarthy D, Bergin R, et al., International Journal of Epidemiology, Volume 52, Issue 6, December 2023, Pages e292–e300\nFactors affecting patient decisions to undergo testing for cancer symptoms: an exploratory qualitative study in Australian general practice, Brent Venning, Rebecca Bergin, Alison Pearce, Alex Lee, Jon D Emery, BJGP Open, Mar 2023."
+    "text": "Recent publications\n\n2024\n\nReplication of a diagnostic accuracy study for cancer risk in primary care patients with unintended weight loss, Lee A, et al., 2024, Under review\nDevelopment and validation of a phenotyping algorithm for primary care patients with unintended weight loss, Lee A, et al., Under review\nPatient Preferences for Investigation of Cancer Symptoms in Australian General Practice: A Discrete Choice Experiment, Brent Venning, Alison Pearce, Richard De Abreu Lourenco, Rebekah Hall, Rebecca Bergin, Alex Lee, Keith Donohoe, Jon Emery , British Journal of General Practice, Feb 2024\n\n\n\n2023\n\nData Resource Profile: Victorian Comprehensive Cancer Centre Data Connect, Lee A, McCarthy D, Bergin R, et al., International Journal of Epidemiology, Volume 52, Issue 6, December 2023, Pages e292–e300\nFactors affecting patient decisions to undergo testing for cancer symptoms: an exploratory qualitative study in Australian general practice, Brent Venning, Rebecca Bergin, Alison Pearce, Alex Lee, Jon D Emery, BJGP Open, Mar 2023."
   },
   {
     "objectID": "cv.html#recent-presentations",
     "href": "cv.html#recent-presentations",
     "title": "CV",
     "section": "Recent presentations",
-    "text": "Recent presentations\n\n2024: Replication of a diagnostic accuracy study for primary care patients with unintended weight loss, Cancer in Primary Care Network Conference, Melbourne, Australia\n2024: Research capabilities of linked data, VCCC Data Connect Showcase, Melbourne Australia\n2023: What’s the big deal with large language models?, Primary Care Cancer Team PARROT seminar\n2023: Fast, accurate, open-source geocoding in Python, PyConAU, Adelaide, Australia\n2023: VCCC Data Connect launch, Melbourne, Australia\n2022: Comparing primary care patients with unintended weight loss between Australia and the UK, Oxford University, United Kingdom\n2022: Machine learning for detection of upper GI cancers, Making Digital Health Real seminar, University of Melbourne"
+    "text": "Recent presentations\n\n2024: Illuminating the cancer continuum of care through large-scale primary care data linkage, Health Services Research Conference, Brisbane, Australia\n2024: Replication of a diagnostic accuracy study for primary care patients with unintended weight loss, Cancer in Primary Care Network Conference, Melbourne, Australia\n2024: Research capabilities of linked data, VCCC Data Connect Showcase, Melbourne Australia\n2023: What’s the big deal with large language models?, Primary Care Cancer Team PARROT seminar\n2023: Fast, accurate, open-source geocoding in Python, PyConAU, Adelaide, Australia\n2023: VCCC Data Connect launch, Melbourne, Australia\n2022: Comparing primary care patients with unintended weight loss between Australia and the UK, Oxford University, United Kingdom\n2022: Machine learning for detection of upper GI cancers, Making Digital Health Real seminar, University of Melbourne"
   },
   {
     "objectID": "cv.html#teaching",
     "href": "cv.html#teaching",
     "title": "CV",
     "section": "Teaching",
-    "text": "Teaching\n\nCurrently co-designing a course on data science for health professionals"
+    "text": "Teaching\n\nCurrently co-designing and teaching a course on Data Science for Health Professionals"
   },
   {
     "objectID": "cv.html#supervision",
