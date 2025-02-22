@@ -32,21 +32,21 @@
     "href": "cv.html#work-history",
     "title": "CV",
     "section": "Work history",
-    "text": "Work history\n\n2021 - Present: Data Scientist and Researcher, Victorian Comprehensive Cancer Centre Data Connect\n2018 - 2021: Data Scientist, Victorian Centre for Data Insights\n2016 - 2018: Signal Processing and Machine Learning Scientist, DST Group\n2016 - 2018: Data Analyst and Programmer, GapMaps"
+    "text": "Work history\n\n2025 - present: Machine Learning Engineer, Beyond Blue\n2021 - 2025: Data Scientist and Researcher, Victorian Comprehensive Cancer Centre Data Connect\n2018 - 2021: Data Scientist, Victorian Centre for Data Insights\n2016 - 2018: Signal Processing and Machine Learning Scientist, DST Group\n2016 - 2018: Data Analyst and Programmer, GapMaps"
   },
   {
     "objectID": "cv.html#sec-skills",
     "href": "cv.html#sec-skills",
     "title": "CV",
     "section": "Skill Set",
-    "text": "Skill Set\nData science:\n\nPython: Pandas, Polars, Numpy, Sklearn, Keras, Pytorch, spaCy, Requests, Jupyter Notebook\nR: Arrow, Tidyverse\nSQL: PostgreSQL, DuckDB\nAlgorithms: Clustering (K-means, Spectral Clustering), Random Forests, LDA, Word Embeddings, Linear and Logistic Regression, Neural Networks, Record Linkage\nVisualisation:\n\nPython: Seaborn, Matplotlib, Plotly Express\nTableau\nR: ggplot\n\n\nData engineering:\n\nDatabricks: extracting and storing data, data transformations\nAzure: deployment of trained models as API endpoints\n\nSoftware development:\n\nPackages, code and notebooks as part of data science projects\nDevelopment of whereabouts package for scalable geocoding and record linkage in Python, presented at PyConAU 2023 in Adelaide. Jointly awarded the Venables Award for Open Source Software, 2024\nGithub / Gitlab"
+    "text": "Skill Set\nData science:\n\nPython: Pandas, Polars, Numpy, Sklearn, Keras, Pytorch, spaCy, Requests, Jupyter Notebook\nR: Arrow, Tidyverse\nSQL: PostgreSQL, DuckDB\nAlgorithms: Clustering (K-means, Spectral Clustering), Random Forests, LDA, Word Embeddings, Linear and Logistic Regression, Neural Networks, Record Linkage\nVisualisation:\n\nPython: Seaborn, Matplotlib, Plotly Express\nTableau\nR: ggplot\n\n\nData engineering:\n\nDatabricks: developmeny and deployment of models\nAzure: deployment of trained models as API endpoints\n\nSoftware development:\n\nPackages, code and notebooks as part of data science projects\nDevelopment of whereabouts package for scalable geocoding and record linkage in Python, presented at PyConAU 2023 in Adelaide. Jointly awarded the Venables Award for Open Source Software, 2024\nGithub / Gitlab"
   },
   {
     "objectID": "cv.html#education",
     "href": "cv.html#education",
     "title": "CV",
     "section": "Education",
-    "text": "Education\n\nPhD thesis, Discretely holomorphic observables in statistical mechanics, University of Melbourne\nBachelor of Science (First Class Honours), Major in Mathematical Physics"
+    "text": "Education\n\nPhD thesis, Discretely holomorphic observables in statistical mechanics, University of Melbourne\nBachelor of Science (First Class Honours), Major in Mathematical Physics\nBachelor of Arts, Major in Spanish and Latin American Studies"
   },
   {
     "objectID": "cv.html#recent-publications",
