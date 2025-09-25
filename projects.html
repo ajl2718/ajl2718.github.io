@@ -117,15 +117,7 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
-    <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#current-projects" id="toc-current-projects" class="nav-link active" data-scroll-target="#current-projects">Current projects</a></li>
-  <li><a href="#some-previous-projects" id="toc-some-previous-projects" class="nav-link" data-scroll-target="#some-previous-projects">Some previous projects</a></li>
-  <li><a href="#open-source-projects" id="toc-open-source-projects" class="nav-link" data-scroll-target="#open-source-projects">Open source projects</a></li>
-  </ul>
-</nav>
+    
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
@@ -153,29 +145,16 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="current-projects" class="level2">
-<h2 class="anchored" data-anchor-id="current-projects">Current projects</h2>
-<p>Here are some projects I have been working on recently.</p>
-<p><strong>Algorithmic fairness in machine learning models for disease surveillance</strong></p>
-<p>Machine learning models are known to exhibit biases. This project involved developing tools for assessing and mitigating against bias in a disease surveillance platform that uses streaming data from hospital emergency departments. This provided a rigorous methodology for ensuring that decisions made using the algorithms do not disproportionately harm different groups of people.</p>
-<p><strong>Cancer risk prediction models and electronic decision support</strong></p>
-<p>Early detection of cancer is an important factor in reducing mortality, however many patients who are later diagnosed with cancer first present with so-called <em>non-specific symptoms</em> which are a challenge in clinical decision making. This project involved the development of machine learning models to identify non-specific symptoms in primary care patients’ electronic health records, and then implementing the resulting algorithms into a clinical decision support tool. This tool is currently being trialled in general practices and will allow clinicians to better identify higher risk patients, benefiting both clinicians and their patients.</p>
-<p><strong>Data linkage</strong></p>
-<p>Part of my work has involved helping to develop linked data infrastructure to support research into cancer services by bringing together data from primary care, hospitals and cancer registries. This has been a <a href="https://vcccalliance.org.au/research/data-connect/">big team effort</a> and is now the first such resource in Australia. It enables researchers and policy makers to see a more complete picture of how cancer patients interact with the health system, in order to improve cancer outcomes. A recent paper describing one of these resources can be found <a href="https://academic.oup.com/ije/article/52/6/e292/7331122">here</a>.</p>
-</section>
-<section id="some-previous-projects" class="level2">
-<h2 class="anchored" data-anchor-id="some-previous-projects">Some previous projects</h2>
-<p><strong>Geolocation of high-risk COVID-19 cases</strong></p>
-<p>During the pandemic, the Victorian Department of Health required a system that could automatically extract location information from contact tracing notes and identify COVID-19 cases at any high risk locations. I led a team that developed a scalable record linkage tool for this purpose. This tool was used for COVID-19 reporting, analysis and research throughout the pandemic and saved substantial time in manually reviewing data.</p>
-<p><strong>Automated tools for geospatial data collection</strong></p>
-<p>In my work at <a href="https://www.gapmaps.com">Gapmaps</a> I developed a system for automatically extracting and transforming geospatial data on business locations, replacing the exisiting manual approach and saving substantial time and money for the business.</p>
-</section>
-<section id="open-source-projects" class="level2">
-<h2 class="anchored" data-anchor-id="open-source-projects">Open source projects</h2>
-<p><a href="https://www.github.com/ajl2718/whereabouts"><strong>whereabouts</strong></a> is an open-source Python package for geocoding. It allows organisations to geocode 1000s of addresses per second, within their own environments and without any cost, bypassing the need for commercial APIs. The geocoding algorithm (based on <a href="https://arxiv.org/abs/1708.01402">this paper</a>) is implemented in SQL using <a href="https://www.duckdb.org">DuckDB</a>.</p>
+<p>Some of the projects I have led or been involved in</p>
+<ul>
+<li><p><strong>Algorithmic fairness in disease surveillance systems</strong>: assessing algorithmic fairness in transformer-based NLP systems for real-time disease classification in hospital emergency departments [Databricks, Azure]</p></li>
+<li><p><strong>Cancer risk prediction models and electronic decision support</strong>: development of machine learning models for cancer risk prediction in patients with non-specific systems, for deployment in clinical decision support tools [SQL, Huggingface BERT models]</p></li>
+<li><p><strong>Development of data linkage infrastructure</strong>: part of my previous role involved helping to develop linked data infrastructure to support cancer research by bringing together data from primary care, hospitals and cancer registries. This has been a <a href="https://vcccalliance.org.au/research/data-connect/">big team effort</a> and is now the first such resource in Australia. It provides researchers and policy makers with a more complete picture of patients’ interactions with the health system to improve cancer outcomes. A recent paper describing one of these resources can be found <a href="https://academic.oup.com/ije/article/52/6/e292/7331122">here</a>.</p></li>
+<li><p><strong>Geolocation of high-risk COVID-19 cases</strong>: development and deployment of a geolocation system for scalable record linkage tools that match locations in COVID-19 contact tracing data to high-risk locations [PostgreSQL]</p></li>
+<li><p><strong>Open source tools for record linkage and geocoding</strong>: developed the <a href="https://www.github.com/ajl2718/whereabouts">whereabouts</a> package for fast, accurate geocoding [DuckDB]</p></li>
+</ul>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
